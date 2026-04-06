@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "Name": "Sword",
+      "Description": "Sharp metal stick"
+    },
+    {
+      "Name": "Bow",
+      "Description": "Noscope"
+    },
+    {
+      "Name": "Potion",
+      "Description": "No effect"
+    },
+    {
+      "Name": "Epstein's Files",
+      "Description": "Everyone wants to read them"
+    }
+  ]
+}
